@@ -30,7 +30,7 @@ function Projects() {
               title="VIRTUAL GYM"
               description="This is an AI-ML based project which is mainly designed to track the calories, may it be during the intake of the specific food item or uponn the tracking of the pose while carrying out the wokout, the model has been trained in such a way that it can track down the calories as per the user's intake of food where he/she can choose from the specific food item and then the user can carry out the workout as per the instrunment that is available in the gym."
               ghLink="https://github.com/abhishekagarwal777/Calorie_Estimation"
-              demoLink="https://prachand.co.in/"
+              // demoLink="https://prachand.co.in/"
             />
           </Col>
 
