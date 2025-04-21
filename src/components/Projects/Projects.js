@@ -41,7 +41,7 @@ function Projects() {
               title="PRACHAND"
               description="At Prachand, we are revolutionizing healthcare with our software application that integrates a predictive ML model for patient readmission into hospital EHR systems. Our user-friendly platform allows healthcare professionals to view predictions, access risk factors, and receive tailored recommendations for high-risk patients. We ensure seamless data collection and preparation, model development, and software integration using technologies like Python, Django, and React. After thorough testing and deployment, we continuously monitor performance and provide support to maximize the benefits of predictive analytics. Experience a seamless healthcare journey with Prachand—your trusted partner for medications and wellness products delivered right to your doorstep."
               ghLink="https://github.com/abhishekagarwal777/prachand"
-              // demoLink="https://prachand.co.in/"
+              demoLink="https://prachand.co.in/"
             />
           </Col>
 
